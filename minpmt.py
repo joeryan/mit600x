@@ -3,7 +3,7 @@
 # minumum payment to pay off debt in one year
 
 annualInterestRate = 0.2
-balance = 4114.0
+balance = 3926.0
 
 monthlyInterest = annualInterestRate / 12
 remainingBal = balance
